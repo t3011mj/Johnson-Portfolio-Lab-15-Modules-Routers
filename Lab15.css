@@ -1,0 +1,30 @@
+body
+	{
+	background-image: url("Abstract.jpg");
+	background-size: 100%; 
+	text-align: center;
+	background-repeat: no-repeat;
+	margin: auto;
+	}
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 36px;
+}
+
+ .inputbox { 
+	display: block;
+	font-size: 24px;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 15px;
+	border: solid;
+	border-color: white;
+}
+
+.output {
+	background-color: white;
+	color: black;
+	font-size: 24px;
+}
